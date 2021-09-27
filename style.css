@@ -1,0 +1,12 @@
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.content {
+    margin: 0 auto;
+    width: 800px;
+}
+
+canvas {
+    border: 1px solid gray;
+}
